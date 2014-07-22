@@ -6,5 +6,8 @@
         {
             "name": "Trinh Tran"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-0": { "": "/" }
+    }
 }
