@@ -1,0 +1,10 @@
+{
+    "name": "trinhtran/LSE",
+    "type": "project",
+    "description": "Test VCS",
+    "authors": [
+        {
+            "name": "Trinh Tran"
+        }
+    ]
+}
