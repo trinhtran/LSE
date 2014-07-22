@@ -7,7 +7,10 @@
             "name": "Trinh Tran"
         }
     ],
+    "autoload": {
+        "psr-0": { "": "/" }
+    },
     "require": {
-        "trinhtran/demo-bundle": "dev-master"
+        "LSE/demo-bundle": "*"
     }
 }
