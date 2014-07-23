@@ -8,7 +8,7 @@
         }
     ],
     "autoload": {
-        "psr-0": { "": "src/" }
+        "psr-0": { "trinhtran\\echo": "src" }
     },
     "require": {
         "LSE/demo-bundle": "*"
