@@ -1,9 +1,0 @@
-{
-    "name": "LSE/demo-bundle",
-    "type": "symfony-bundle",
-    "autoload": {
-        "psr-0" : {
-            "" : "/"
-        }
-    }
-}

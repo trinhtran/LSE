@@ -9,8 +9,5 @@
     ],
     "autoload": {
         "psr-0": { "DemoBundle": "src" }
-    },
-    "require": {
-        "LSE/demo-bundle": "*"
     }
 }
